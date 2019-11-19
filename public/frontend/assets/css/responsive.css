@@ -1,0 +1,522 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li a {
+      font-size: 13px;
+      padding: 30px 5px;
+    }
+    .top-header-area ul li a {
+        font-size: 13px;
+    }
+    .swiper-slide h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .content-block-area {
+        padding: 70px 0;
+    }
+    .count-down-boxed h3 {
+        font-size: 15px;
+    }
+    .apointment-preview-boxed.man-image-bg {
+        background-size: 100% 100%;
+        height: 728px;
+    }
+    .blog-item-info h3 {
+        font-size: 18px;
+    }
+    .footer-top-info > p {
+        font-size: 25px;
+    }
+    .swiper-slide.swiper-slide-two h1 {
+        font-size: 40px;
+    }
+    .boxed-item > h3 {
+        font-size: 18px;
+    }
+    .signup-form {
+        margin: auto;
+    }
+    .signin-form {
+        padding: 36px 0;
+    }
+    .gallery-item-one .title {
+        font-size: 20px;
+    }
+    .widget-tile {
+        font-size: 15px;
+    }
+    .widget-follow-us ul li {
+        margin: 0 10px;
+    }
+    .single-popular-news-item img {
+        width: 45px;
+    }
+    .main-menu ul li ul {
+      width: 158px;
+    }
+    .main-menu-area .logo {
+        padding: 7px 0 20px;
+    }
+    .main-menu-area .logo a img {
+        width: 180px;
+    }
+    .main-menu ul li ul li a {
+        padding: 10px 15px;
+    }
+    .main-menu .dropdown-menu.right-top {
+        min-width: 155px;
+    }
+    .background-video h1 {
+        font-size: 40px;
+    }
+    .main-menu-two ul li a {
+        font-size: 13px;
+    }
+    .main-menu-area-two .navbar-brand img {
+        width: 150px;
+        padding-top: 10px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .top-header-area {
+        display: none;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .top-header-area ul li {
+        border: 1px solid #dedede;
+        margin: 0 5px;
+    }   
+    .share-icons {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .homepage-slides-wrapper .col-md-6 {
+        padding: 0 50px;
+    }
+    .swiper-slide h1 {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .content-block-area {
+        padding: 60px 0 0 0;
+        /*padding: 60px 0;*/
+    }
+    .body-service-boxed-item.auto-body-bg {
+        height: 400px;
+        margin-bottom: 60px;
+        margin-left: auto;
+    }
+    .gray-bg .section-title.text-right {
+        text-align: center;
+    }
+    .testimonials-car-boxed {
+        margin-top: 60px;
+        margin-bottom: 60px;
+        text-align: center;
+    }
+    .apointment-preview-boxed.man-image-bg {
+        display: none;
+    }
+    .footer-icons {
+        font-size: 25px;
+        height: 65px;
+        line-height: 60px;
+        width: 65px;
+    }
+    .footer-top-info > p {
+        font-size: 20px;
+    }
+    .swiper-slide.swiper-slide-two h1 {
+        font-size: 40px;
+    }
+    .blog-item-info h3 {
+        font-size: 15px;
+    }
+    .mrb-30 {
+        margin-bottom: 30px;
+    }
+    .signup-form {
+        margin: 121px auto;
+    }
+    .signin-form {
+        padding: 53px 0;
+    }
+    .widget-tile {
+        font-size: 17px;
+    }
+    a.pagi-arrow {
+        padding: 5px 20px;
+    }
+    .single-blog-post .blog-item-info {
+        padding: 35px 15px;
+    }
+    .blog-comment {
+        padding: 30px 15px;
+    }
+    .contact-us .media .media-body h4 {
+        font-size: 13px;
+    }
+    .three-img {
+        margin: 40px auto auto;
+        max-width: 450px;
+        width: 100%;
+    }
+    .searchbox-area {
+        display: none;
+        visibility: hidden;
+    }
+    .responsive-menu-area {
+        background: #00299b;
+        padding: 15px 0;
+    }
+    .responsive-menu-wrap {
+      margin-top: -20px;
+      position: absolute;
+      right: 0;
+      top: 50%;
+    }
+    .mean-container .mean-bar {
+      background: transparent;
+    }
+    .background-video h1 {
+        font-size: 40px;
+    }
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .top-header-area {
+        display: none;
+    }
+    .top-header-area ul {
+        margin-top: 15px;
+    }
+    .top-header-area ul li {
+        border: 1px solid #dedede;
+        display: block;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .share-icons {
+        text-align: center;
+    }
+    .share-icons ul {
+        margin: 0 0 15px;
+    }
+    .share-icons ul li {
+        display: inline-block;
+        margin: 0 5px;
+    }
+    .content-block-area {
+        padding: 40px 0 0 0;
+        /*padding: 40px 0;*/
+    }
+    .homepage-slides-wrapper {
+        text-align: center;
+    }
+    .swiper-slide h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .count-down-boxed .count-number {
+        font-size: 30px;
+    }
+    .count-down-boxed h3 {
+        font-size: 18px;
+    }
+    .body-service-boxed-item.auto-body-bg {
+        height: 250px;
+        margin-bottom: 40px;
+        margin-left: auto;
+    }
+    .boxed-item {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 40px;
+        padding: 40px 20px;
+    }
+    .gray-bg .section-title.text-right {
+        text-align: center;
+    }
+    .testimonials-car-boxed {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .testimonial-single-item {
+        margin-top: 40px;
+    }
+    .man-image-bg {
+        display: none;
+    }
+    .appointment-form label {
+        font-size: 17px;
+    }
+    .footer-top-info > p {
+        font-size: 20px;
+    }
+    .footer-icons {
+        font-size: 17px;
+        height: 60px;
+        line-height: 52px;
+        width: 60px;
+    }
+    .footer-logo h3 {
+        margin: 14px 0;
+        font-size: 18px;
+    }
+    .footer-copyright-area {
+        text-align: center;
+    }
+    .footer-copyright-area .text-right {
+        text-align: center;
+    }
+    .swiper-slide.swiper-slide-two h1 {
+        font-size: 20px;
+        line-height: 35px;
+        margin: 20px 0 0;
+    }
+    .swiper-slide.swiper-slide-two p {
+        font-size: 18px;
+    }
+    .background-preview h1 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .background-preview p {
+        font-size: 18px;
+    }
+    .our-team .description {
+        line-height: 25px;
+    }
+    .signup-form {
+        max-width: 390px;
+        padding: 0 15px;
+        width: 100%;
+    }
+    .signup-form form {
+        padding: 15px;
+    }
+    .signup-form h2 {
+        font-size: 25px;
+        margin: 10px 0 15px;
+    }
+    .banner-boxed > h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .gallery-item-one .title {
+        font-size: 20px;
+    }
+    .widget-boxed {
+        margin-top: 30px;
+    }
+    .widget-tile {
+        font-size: 18px;
+    }
+    .single-blog-post .blog-item-info {
+        padding: 30px 15px;
+    }
+    a.pagi-arrow {
+        padding: 5px 14px;
+    }
+    .blog-comment {
+        padding: 30px 15px;
+    }
+    .searchbox-area {
+        display: none;
+        visibility: hidden;
+    }
+    .responsive-menu-area {
+        background: #00299b;
+        padding: 8px 0 18px;
+    }
+    .responsive-menu-wrap {
+        margin-top: auto;
+        position: absolute;
+        right: 0;
+        top: 50%;
+    }
+    .mean-container .mean-bar {
+        background: transparent;
+    }
+    .background-video h1 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-top: 40px;
+    }
+}
+
+@media only screen and (max-width: 459px) { 
+    .our-services {
+        padding: 40px 0 115px;
+    }
+    .hexagon:last-child {
+        margin-left: 0;
+        top: 62px;
+    }
+    .three-img {
+        margin: auto;
+        max-width: 215px;
+        padding: 20px 0 0;
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 460px) and (max-width: 767px) { 
+    .three-img {
+        margin: 40px auto auto;
+        max-width: 450px;
+        width: 100%;
+    }
+}
+/* medium Devices, Tablets and tablet portrait screen */
+@media (max-width: 991px) {
+    .main-menu-area {
+        /*background-color: #00299b;*/
+        background-color: #ffffff;
+    }
+    .main-menu-area .navbar-default {
+        z-index: 999;
+        position: absolute;
+        right: 0;
+        top: -52px;
+        width: 100%;
+    }
+    .main-menu-area .logo::before {
+        background: transparent;
+        transform: skewX(0deg);
+        -webkit-transform: skewX(0deg);
+    }
+    .main-menu-area {
+        position: fixed;
+        top: 0;
+        z-index: 9999;
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+    .main-menu-area .logo {
+        padding: 3px 0 12px;
+    }
+    .main-menu-area .logo a img {
+        width: 150px;
+    }
+    .main-menu-area .navbar-default .navbar-toggle .icon-bar {
+        background-color: #000000;
+        /*background-color: #fff;*/
+    }
+    .main-menu-area .navbar-default .navbar-toggle:focus, 
+    .main-menu-area .navbar-default .navbar-toggle:hover {
+        background-color: #000;
+    }
+    .main-menu-area .navbar-default .navbar-header {
+        float: none;
+    }
+    .main-menu-area .navbar-default .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .main-menu-area .navbar-default .navbar-toggle {
+        display: block;
+    }
+    .main-menu-area .navbar-default .navbar-collapse {
+        background-color: #fff;
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .main-menu-area .navbar-default .navbar-fixed-top {
+		top: 0;
+		border-width: 0 0 1px;
+	}
+    .main-menu-area .navbar-default .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .main-menu-area .navbar-default .navbar-nav {
+        float: none!important;
+		margin-top: 7.5px;
+	}
+	.main-menu-area .navbar-default .navbar-nav > li {
+        float: none;
+    }
+    .main-menu-area .navbar-default .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .main-menu-area .navbar-default .collapse.in {
+  		display:block !important;
+	}
+    /* Main menu area two */
+    .main-menu-area-two .navbar-default {
+        background-color: #000;
+        padding-bottom: 2px;
+    }
+    .main-menu-area-two .navbar-default .navbar-brand {
+        padding-top: 0;
+    }
+    .main-menu-area-two .navbar-default .navbar-brand img {
+        width: 150px;
+    }
+    .main-menu-area-two .navbar-default .navbar-toggle {
+        margin-top: 14px;
+    }
+    .main-menu-area-two .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+    .main-menu-area-two .navbar-default .navbar-toggle:focus, 
+    .main-menu-area-two .navbar-default .navbar-toggle:hover {
+        background-color: #000;
+    }
+    .main-menu-area-two .navbar-default .navbar-header {
+        float: none;
+    }
+    .main-menu-area-two .navbar-default .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .main-menu-area-two .navbar-default .navbar-toggle {
+        display: block;
+    }
+    .main-menu-area-two .navbar-default .navbar-collapse {
+        background-color: #131313;
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .main-menu-area-two .navbar-default .navbar-fixed-top {
+		top: 0;
+		border-width: 0 0 1px;
+	}
+    .main-menu-area-two .navbar-default .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .main-menu-area-two .navbar-default .navbar-nav {
+        float: none!important;
+		margin-top: 7.5px;
+	}
+	.main-menu-area-two .navbar-default .navbar-nav > li {
+        float: none;
+    }
+    .main-menu-area-two .navbar-default .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .main-menu-area-two .navbar-default .collapse.in {
+  		display:block !important;
+	}
+    /* Een main menu area two */
+    .bc-area-padding {
+        padding: 50px 0 0;
+    }
+}
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+    .signup-form {
+        margin: 90px auto;
+    }
+    .signin-form {
+        padding: 55px 0;
+    }
+}
